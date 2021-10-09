@@ -1,9 +1,6 @@
-<head>
-<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
 <script type="text/x-mathjax-config">MathJax.Hub.Config({"tex2jax": {"inlineMath": [['$','$'], ['\\(','\\)']]}});</script>
 <script type="text/x-mathjax-config">MathJax.Hub.Config({"HTML-CSS": {"availableFonts":["TeX"],"scale": 150}});</script>
-</head>
 # Mechaine Learning--潘登同学的机器学习笔记
 # 目录
 + [有监督机器学习](#index1)
