@@ -16,6 +16,7 @@
 
 
 
-
+## 概率图
++ [贝叶斯网络](https://blog.csdn.net/weixin_52185313/article/details/120961405)
 
 
