@@ -19,4 +19,5 @@
 ## 概率图
 + [贝叶斯网络](https://blog.csdn.net/weixin_52185313/article/details/120961405)
 + [马尔可夫随机场](https://blog.csdn.net/weixin_52185313/article/details/120965299)
++ [因子图](https://blog.csdn.net/weixin_52185313/article/details/120983369)
 
