@@ -11,6 +11,7 @@
 + [逻辑回归(LogisticRegression)](https://blog.csdn.net/weixin_52185313/article/details/120879479)
 + [多分类任务OVO、OVR及softmax回归](https://blog.csdn.net/weixin_52185313/article/details/120923350)
 + [硬间隔SVM](https://blog.csdn.net/weixin_52185313/article/details/121065070)
++ [SVM软间隔、非线性](https://blog.csdn.net/weixin_52185313/article/details/121094118)
 
 ### 分类实战
 + [实战音乐多分类项目(包含傅里叶变换详解)](https://blog.csdn.net/weixin_52185313/article/details/120936597)
