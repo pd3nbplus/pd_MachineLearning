@@ -12,6 +12,7 @@
 ## 分类
 ### [逻辑回归(LogisticRegression)](https://blog.csdn.net/weixin_52185313/article/details/120879479)
 ### [多分类任务OVO、OVR及softmax回归](https://blog.csdn.net/weixin_52185313/article/details/120923350)
+### [Logistics回归、Softmax代码实现--Tensorflow部分](https://blog.csdn.net/weixin_52185313/article/details/121155720)
 ### [硬间隔SVM](https://blog.csdn.net/weixin_52185313/article/details/121065070)
 ### [SVM软间隔、非线性](https://blog.csdn.net/weixin_52185313/article/details/121094118)
 
