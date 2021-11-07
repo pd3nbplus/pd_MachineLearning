@@ -15,6 +15,7 @@
 ### [Logistics回归、Softmax代码实现--Tensorflow部分](https://blog.csdn.net/weixin_52185313/article/details/121155720)
 ### [硬间隔SVM](https://blog.csdn.net/weixin_52185313/article/details/121065070)
 ### [SVM软间隔、非线性](https://blog.csdn.net/weixin_52185313/article/details/121094118)
+### [SVM代码实现--Tensorflow部分](https://blog.csdn.net/weixin_52185313/article/details/121196846)
 
 ## 分类实战
 ### [实战音乐多分类项目(包含傅里叶变换详解)](https://blog.csdn.net/weixin_52185313/article/details/120936597)
