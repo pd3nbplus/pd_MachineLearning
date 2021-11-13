@@ -23,7 +23,7 @@
 # 无监督机器学习
 ## 聚类
 ### [聚类算法K-mean及其变形](https://blog.csdn.net/weixin_52185313/article/details/121228973)
-
+### [各种聚类及应用](https://blog.csdn.net/weixin_52185313/article/details/121305099)
 
 ## 概率图
 ### [贝叶斯网络](https://blog.csdn.net/weixin_52185313/article/details/120961405)
