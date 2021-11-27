@@ -25,6 +25,8 @@
 ## 聚类
 ### [聚类算法K-mean及其变形](https://blog.csdn.net/weixin_52185313/article/details/121228973)
 ### [Canopy聚类、层次聚类、密度聚类-DBSCAN](https://blog.csdn.net/weixin_52185313/article/details/121305099)
+### [密度最大值聚类、谱聚类](https://pd-nb-plus.blog.csdn.net/article/details/121336034)
+### [EM 算法与 GMM 模型](https://pd-nb-plus.blog.csdn.net/article/details/121574367)
 
 # 概率图
 ### [贝叶斯网络](https://blog.csdn.net/weixin_52185313/article/details/120961405)
