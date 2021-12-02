@@ -28,6 +28,9 @@
 ### [密度最大值聚类、谱聚类](https://pd-nb-plus.blog.csdn.net/article/details/121336034)
 ### [EM 算法与 GMM 模型](https://pd-nb-plus.blog.csdn.net/article/details/121574367)
 
+# 决策树
+### [经典决策树CART、ID3与C4.5](https://pd-nb-plus.blog.csdn.net/article/details/121689393)
+
 # 概率图
 ### [贝叶斯网络](https://blog.csdn.net/weixin_52185313/article/details/120961405)
 ### [马尔可夫随机场](https://blog.csdn.net/weixin_52185313/article/details/120965299)
