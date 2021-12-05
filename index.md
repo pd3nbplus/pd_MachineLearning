@@ -29,7 +29,8 @@
 ### [EM 算法与 GMM 模型](https://pd-nb-plus.blog.csdn.net/article/details/121574367)
 
 # 决策树
-### [经典决策树CART、ID3与C4.5](https://pd-nb-plus.blog.csdn.net/article/details/121689393)
+### [经典决策树CART、ID3与C4.5](https://pd-nb-plus.blog.csdn.net/article/details/121736379)
+### [随机森林算法与集成学习](https://pd-nb-plus.blog.csdn.net/article/details/121738095)
 
 # 概率图
 ### [贝叶斯网络](https://blog.csdn.net/weixin_52185313/article/details/120961405)
